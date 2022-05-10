@@ -12,7 +12,7 @@ let masha = { name: 'Маша', age: 28 };
 let users = [ vasya, petya, masha ];
 
 function namify(users) {
-return `${users.name} + ${users.name}`;
+  // ваш код
 }
 
 let names = namify(users); // ['Вася', 'Петя', 'Маша']
