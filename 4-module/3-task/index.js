@@ -23,4 +23,3 @@ function highlight(table) {
       if (age < 18) tr.style.textDecoration = "line-through";
   }
 }
-highlight(table);
